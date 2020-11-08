@@ -4,10 +4,10 @@
 * [Description](#description)
 * [Features](#features)
 * [Installation](#installation)
-* [Known Bugs](#knownBugs)
+* [Known Bugs](#known-bugs)
 * [Support](#support)
-* [Technologies Used](#technologiesUsed)
-* [Contribution Guidlines](#contributionGuidlines)
+* [Technologies Used](#technologies-used)
+* [Contribution Guidlines](#contribution-guidlines)
 * [License](#license)
 
 ## Description
