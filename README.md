@@ -1,7 +1,9 @@
-
+## Project Title
+Horiseon web application 
+## Description
+This Application allows you to increase your visibility and find the right customers for your business.
 ## Table of Contents
 
-* [Description](#description)
 * [Features](#features)
 * [Installation](#installation)
 * [Known Bugs](#known-bugs)
@@ -11,8 +13,6 @@
 * [Tests](#tests)
 * [License](#license)
 
-## Description
-This Application allows you to increase your visibility and find the right customers for your business.
 ## Features
 * Search ingine optimization.
 * Online reputation management.
@@ -21,7 +21,7 @@ This Application allows you to increase your visibility and find the right custo
 * Clone this repository.
 * Open repository in your browser.
 ## Known Bugs
-The Search Engine Optimozation link is not working - known issue 
+The Search Engine Optimization link is not working - known issue 
 ## Support
 Please email me for further questions at nasozontova@gmail.com
 ## Technologies Used
